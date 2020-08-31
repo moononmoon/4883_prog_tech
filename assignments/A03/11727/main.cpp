@@ -16,7 +16,7 @@ int main() {
   cin >> k;
   for(int i = 0; i<k; i++)
   {
-    cout<<"Case "<<i+1<<": " ;
+    cout<<"Case "<<i+1<<": ";
     cin>>l>>m>>r;
     mid = l;
     if (l>=m & l<=r || l>=r & l<=m)
