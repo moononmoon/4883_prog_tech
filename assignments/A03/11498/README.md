@@ -2,9 +2,17 @@
 ## Mark Tachiri
 ## Description:
 This program determines what direction a certain point is at given the main point
-## Files
-- [main.cpp](https://github.com/moononmoon/4883_prog_tech/blob/master/assignments/A03/11498/main.cpp)
-- [input.txt](https://github.com/moononmoon/4883_prog_tech/blob/master/assignments/A03/11498/input.txt)
-- [output.txt](https://github.com/moononmoon/4883_prog_tech/blob/master/assignments/A03/11498/output.txt)
+### Files
+
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   | [main.cpp](./main.cpp)     | solution file.                                             |
+|   2   | [input](./input.txt)       | Test input file                                            |
+|   3   | [output](./output.txt)     | Test outputfile                                            |
+
+### Instructions
+
+- This project was compiled using C++ 11
+
 ## Sources
 - none
