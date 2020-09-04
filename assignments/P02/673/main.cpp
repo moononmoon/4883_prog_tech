@@ -1,3 +1,13 @@
+/*
+Author: Mark Tachiri
+Email:  marktachiri@ymail.com
+Label:  673
+Title:  673 - Parentheses Balance
+Course: 4883
+Semester: Fall 2020
+Description:  this program reads a stirng of parentheses and determines 
+if each openning parentheses has a matching closing parentheses
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
