@@ -18,4 +18,4 @@ if each openning parentheses has a matching closing parentheses
 - This project was compiled using C++ 11
 
 ## Sources
-- [cppreference.com](https://en.cppreference.com/w/)
+- none
