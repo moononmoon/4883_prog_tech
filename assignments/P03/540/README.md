@@ -2,7 +2,9 @@
 ---
 ## Mark Tachiri
 ## Description:
-this program changes an infix expression to a postfix expression
+Description:  in this program, For each test case, first print a line saying ‘Scenario #k’, 
+where k is the number of the test case. Then, for each ‘DEQUEUE’ command, print the element 
+which is dequeued on a single line. Print a blank line after each test case, even after the last one.
 
 ### Files
 
