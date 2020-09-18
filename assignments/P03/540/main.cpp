@@ -5,7 +5,9 @@ Label:  540
 Title:  540 - Team Queue
 Course: 4883
 Semester: Fall 2020
-Description:  in this program, For each test case, first print a line saying ‘Scenario #k’, where k is the number of the test case. Then, for each ‘DEQUEUE’ command, print the element which is dequeued on a single line. Print a blank line after each test case, even after the last one.
+Description:  in this program, For each test case, first print a line saying ‘Scenario #k’, 
+where k is the number of the test case. Then, for each ‘DEQUEUE’ command, print the element 
+which is dequeued on a single line. Print a blank line after each test case, even after the last one.
 */
 #include <bits/stdc++.h> 
 using namespace std; 
