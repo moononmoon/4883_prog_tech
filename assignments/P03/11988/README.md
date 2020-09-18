@@ -2,7 +2,10 @@
 ---
 ## Mark Tachiri
 ## Description:
-this program changes an infix expression to a postfix expression
+in this program, there are several test cases. Each test case is a single line 
+containing at least one and at most 100,000 letters, underscores and two special characters 
+‘[’ and ‘]’. ‘[’ means the “Home” key is pressed internally, and ‘]’ means the “End” key is pressed internally. 
+The input is terminated by end-of-file (EOF).
 
 ### Files
 
