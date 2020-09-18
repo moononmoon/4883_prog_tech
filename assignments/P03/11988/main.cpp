@@ -5,7 +5,10 @@ Label:  11988
 Title:  11988 - Broken Keyboard (a.k.a.          Beiju Text)
 Course: 4883
 Semester: Fall 2020
-Description:  in this program, there are several test cases. Each test case is a single line containing at least one and at most 100,000 letters, underscores and two special characters ‘[’ and ‘]’. ‘[’ means the “Home” key is pressed internally, and ‘]’ means the “End” key is pressed internally. The input is terminated by end-of-file (EOF).
+Description:  in this program, there are several test cases. Each test case is a single line 
+containing at least one and at most 100,000 letters, underscores and two special characters 
+‘[’ and ‘]’. ‘[’ means the “Home” key is pressed internally, and ‘]’ means the “End” key is pressed internally. 
+The input is terminated by end-of-file (EOF).
 */
 #include<bits/stdc++.h>
 
