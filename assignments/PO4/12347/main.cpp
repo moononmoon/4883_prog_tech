@@ -1,3 +1,13 @@
+/*
+Author: Mark Tachiri
+Email:  marktachiri@ymail.com
+Label:  12347
+Title:  12347 - Binary Search Tree
+Course: 4883
+Semester: Fall 2020
+Description:  in this program, Given the pre-order traversal of a binary search tree, 
+you task is to find the post-order traversal of this tree.
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
