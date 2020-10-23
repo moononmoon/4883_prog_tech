@@ -5,7 +5,8 @@ Label:  920
 Title:  920 - Sunny Mountains
 Course: 4883
 Semester: Fall 2020
-Description:  in this program, Given the points representing the height of the mounts calculate the total length in meters of the bold lines 
+Description:  in this program, Given the points representing the height 
+of the mounts calculate the total length in meters of the bold lines 
 */
 #include<bits/stdc++.h>
 
