@@ -5,7 +5,10 @@ Label:  11495
 Title:  11495: Bubbles and Buckets
 Course: 4883
 Semester: Fall 2020
-Description:  this program will show a copy of the puzzle on the screen step by step, as the disks move around
+Description:  this program given the list of numbers, players play by turns, 
+and at each turn a player makes a move. A move consists of choosing one pair of consecutive 
+elements that are out of order in the sequence, and swapping both elementsMarcelo is always 
+the first to play.Sooner or later, the sequence will be sorted. The player that cannot make a move loses.
 */
 #include<bits/stdc++.h>
 using namespace std;
