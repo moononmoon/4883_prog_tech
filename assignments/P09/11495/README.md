@@ -2,9 +2,10 @@
 ---
 ## Mark Tachiri
 ## Description:
-Description:  in this program, Given the points representing the height 
-of the mounts calculate the total length in meters of the bold lines
-
+Description:  this program given the list of numbers, players play by turns, 
+and at each turn a player makes a move. A move consists of choosing one pair of consecutive 
+elements that are out of order in the sequence, and swapping both elementsMarcelo is always 
+the first to play.Sooner or later, the sequence will be sorted. The player that cannot make a move loses.
 ### Files
 
 |   #   | File                       | Description                                                |
